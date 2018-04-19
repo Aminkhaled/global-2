@@ -5897,7 +5897,9 @@ input:focus, select:focus, textarea:focus {
 }
 
 .section-navbar-1.fixed .logo-mobile img {
-  width: 180px;
+  width: 100%;
+  max-width: 122px;
+  height: 40px;
 }
 
 .section-navbar-1.fixed nav {
